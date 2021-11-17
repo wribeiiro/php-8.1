@@ -1,7 +1,7 @@
 # php-8.1
 Tests of php 8.1 syntax and features
 - Enums
-- ...
+- Match function
 
 ### Running this project
 
